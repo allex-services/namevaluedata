@@ -1,7 +1,9 @@
 module.exports = {
   record:{
     fields:[{
-      name: 'field0'
+      name: 'name'
+    },{
+      name: 'value'
     }]
   }
 };
