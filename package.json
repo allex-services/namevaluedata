@@ -1,0 +1,21 @@
+{
+  "name": "allex_namevaluedataservice",
+  "version": "0.1.0",
+  "description": "NameValueDataService",
+  "main": "index.js",
+  "scripts": {
+    "test": "mocha"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git@gitlab.hers.rs:allex_services/namevaluedata.git"
+  },
+  "keywords": [
+    "ecosystem:allex",
+    "Service",
+    "NameValueData"
+  ],
+  "author": "HERS Belgrade",
+  "license": "ISC"
+}
+
